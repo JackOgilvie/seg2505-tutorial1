@@ -2,7 +2,7 @@
 //
 // Copyright (c) 2010 Doug McInnes
 //
-// TEST
+// TEST GITHUB
 
 KEY_CODES = {
   32: 'space',
